@@ -1,0 +1,26 @@
+# CodeSignal
+0.0.0.0 codesignal.com
+0.0.0.0 www.codesignal.com
+0.0.0.0 app.codesignal.com
+
+# Filtered
+0.0.0.0 filtered.ai
+0.0.0.0 www.filtered.ai
+0.0.0.0 app.filtered.ai
+0.0.0.0 candidate-app.filtered.ai
+
+# HackerRank
+0.0.0.0 hackerrank.com
+0.0.0.0 www.hackerrank.com
+
+# HireVie
+0.0.0.0 hirevue.com
+0.0.0.0 www.hirevue.com
+0.0.0.0 app.hirevue.com
+0.0.0.0 events.hirevue.com
+0.0.0.0 webapi.hirevue.com
+
+# Leetcode
+0.0.0.0 leetcode.com
+0.0.0.0 www.leetcode.com
+0.0.0.0 assets.leetcode.com
