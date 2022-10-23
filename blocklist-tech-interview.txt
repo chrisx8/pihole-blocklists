@@ -1,3 +1,8 @@
+# ----------------------------------------------------------
+# chrisx8/pihole-blocklists: tech-interview
+# https://raw.githubusercontent.com/chrisx8/pihole-blocklists/main/blocklist-tech-interview.txt
+# ----------------------------------------------------------
+
 # CodeSignal
 0.0.0.0 codesignal.com
 0.0.0.0 www.codesignal.com

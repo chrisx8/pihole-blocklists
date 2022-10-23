@@ -1,0 +1,102 @@
+# ----------------------------------------------------------
+# chrisx8/pihole-blocklists: social
+# https://raw.githubusercontent.com/chrisx8/pihole-blocklists/main/blocklist-social.txt
+# ----------------------------------------------------------
+# This blocklist is heavily based on github.com/crpietschmann/pi-hole-blocklist
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+# BeReal
+0.0.0.0 bere.al
+0.0.0.0 www.bere.al
+
+# Facebook
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 business.facebook.com
+0.0.0.0 l.facebook.com
+0.0.0.0 web.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 developers.facebook.com
+0.0.0.0 apps.facebook.com
+0.0.0.0 app.logs-facebook.com
+0.0.0.0 creative.ak.facebook.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 staticxx.facebook.com
+0.0.0.0 fr-fr.facebook.com
+0.0.0.0 de-de.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 star-mini.c10r.facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 scontent-msp1-1.xx.fbcdn.net
+0.0.0.0 video-msp1-1.xx.fbcdn.net
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 fupload.facebook.com
+
+# Kik
+0.0.0.0 kik.com
+0.0.0.0 ws.kik.com
+0.0.0.0 password.kik.com
+0.0.0.0 help.kik.com
+
+# Periscope
+0.0.0.0 pscp.tv
+0.0.0.0 www.pscp.tv
+
+# Tiktok
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 getstarted.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 careers.tiktok.com
+0.0.0.0 business.tiktok.com
+0.0.0.0 newsroom.tiktok.com
+0.0.0.0 t.tiktok.com
+0.0.0.0 activity.tiktok.com
+0.0.0.0 support.tiktok.com
+0.0.0.0 tiktokv.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 ib.tiktokv.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 v16a.tiktokcdn.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 v16-tiktokcdn-com.akamaized.net
+0.0.0.0 musical.ly
+0.0.0.0 mon.musical.ly
+0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api2.musical.ly
+0.0.0.0 log2.musical.ly
+0.0.0.0 api2-21-h2.musical.ly
+0.0.0.0 musically.ly
+
+# Twitter
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 tweetdeck.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 publish.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 help.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 support.twitter.com
+0.0.0.0 video.twimg.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 p.twitter.com
+
+# Whisper.sh
+0.0.0.0 whisper.sh
+0.0.0.0 www.whisper.sh

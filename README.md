@@ -1,7 +1,10 @@
-# Pi-hole Blocklist for Tech Interview Sites
+# Pi-hole Blocklists
 
-This repo contains a Pi-hole blocklist for blocking tech interview sites, like Leetcode and HackerRank.
+This repo contains several Pi-hole blocklists, including:
+
+- [social](https://github.com/chrisx8/pihole-blocklists/raw/main/blocklist-social.txt): blocks several social media sites.
+- [tech-interview](https://github.com/chrisx8/pihole-blocklists/raw/main/blocklist-tech-interview.txt): blocks tech interview sites, like Leetcode and HackerRank.
 
 ## Usage
 
-Add [the blocklist (txt)](https://raw.githubusercontent.com/chrisx8/pihole-tech-interview-blocklist/main/blocklist-tech-interview.txt) to your Pi-hole, or whichever DNS-based content blocking tool.
+Add the blocklist(s) to your Pi-hole instance, or whichever DNS-based content blocking tool that supports hosts-based blocklists.
