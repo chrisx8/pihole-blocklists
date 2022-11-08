@@ -97,6 +97,11 @@
 0.0.0.0 abs.twimg.com
 0.0.0.0 p.twitter.com
 
+# Yik Yak
+0.0.0.0 yikyak.com
+0.0.0.0 www.yikyak.com
+0.0.0.0 store.yikyak.com
+
 # Whisper.sh
 0.0.0.0 whisper.sh
 0.0.0.0 www.whisper.sh
